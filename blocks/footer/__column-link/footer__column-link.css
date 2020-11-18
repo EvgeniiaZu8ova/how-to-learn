@@ -6,9 +6,9 @@
     text-decoration: none;
     margin: 0;
     opacity: 1;
+    transition: opacity 0.2s ease-in 0.1s;
   }
   
   .footer__column-link:hover {
     opacity: 0.6;
-    transition: opacity 0.2s ease-in 0.1s;
   }
